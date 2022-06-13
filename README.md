@@ -32,7 +32,7 @@ Check out what was used to build it:
 
 Pagina principal (index):
 
-![](C:\Users\l.aprigio.da.silva\Desktop\index.png)
+![](https://github.com/Lucas-Aprigio/Projeto-Ask-a-dev/blob/main/index.png)
 
 
 
@@ -40,7 +40,7 @@ Pagina para realizar uma pergunta:
 
 Page to ask a question:
 
-![](C:\Users\l.aprigio.da.silva\Desktop\perguntar.png)
+![](https://github.com/Lucas-Aprigio/Projeto-Ask-a-dev/blob/main/perguntar.png)
 
 
 
@@ -48,4 +48,4 @@ Pagina com a descrição das perguntas e respostas:
 
 Page with the questions description and its answers
 
-![](C:\Users\l.aprigio.da.silva\Desktop\perguntas.png)
+![](https://github.com/Lucas-Aprigio/Projeto-Ask-a-dev/blob/main/perguntas.png)
