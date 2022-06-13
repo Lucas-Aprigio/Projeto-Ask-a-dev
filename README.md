@@ -1,18 +1,18 @@
 # **Ask a dev**
 
-Welcome! 
+Welcome!🤓
 
-Ask a dev é uma página para perguntas e respostas anônimas, baseado no Ask.fm.
+Ask a dev é uma página para perguntas e respostas anônimas, baseado no Ask.fm. 
 
 Confira o que foi utilizado:
 
--Arquitetura MVC
+-Arquitetura MVC ✔
 
--Nodejs com framework Express
+-Nodejs com framework Express  ✔
 
--Bootstrap, HTML, CSS e EJS para renderização dos templates.
+-Bootstrap, HTML, CSS e EJS para renderização dos templates.  ✔
 
--Sequelize e MySQL para persistência dos dados. 
+-Sequelize e MySQL para persistência dos dados.  ✔
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,13 +20,13 @@ This is an Ask and Answer page based on Ask.fm.
 
 Check out what was used to build it:
 
--MVC architecture
+-MVC architecture  ✔
 
--Nodejs with Express Framework
+-Nodejs with Express Framework  ✔
 
--Bootstrap, HTML, CSS and EJS for template rendering
+-Bootstrap, HTML, CSS and EJS for template rendering  ✔
 
--Sequelize and MySQL for data persistence
+-Sequelize and MySQL for data persistence  ✔
 
 
 
