@@ -6,8 +6,6 @@ Ask a dev é uma página para perguntas e respostas anônimas, baseado no Ask.fm
 
 Confira o que foi utilizado:
 
--Arquitetura MVC ✔
-
 -Nodejs com framework Express  ✔
 
 -Bootstrap, HTML, CSS e EJS para renderização dos templates.  ✔
@@ -19,8 +17,6 @@ Confira o que foi utilizado:
 This is an Ask and Answer page based on Ask.fm.
 
 Check out what was used to build it:
-
--MVC architecture  ✔
 
 -Nodejs with Express Framework  ✔
 
